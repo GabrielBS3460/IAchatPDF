@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "start": "npm run serve"
+  },
+  "dependencies": {
+    "axios": "^1.7.3",
+    "bootstrap": "^5.3.3",
+    "bootstrap-vue-next": "^0.24.4"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8",
+    "@vue/compiler-sfc": "^3.4.37",
+    "vue-loader": "^17.3.1"
+  }
+}
